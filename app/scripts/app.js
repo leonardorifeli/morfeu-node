@@ -11,7 +11,9 @@
 angular
   .module('angularMongoApp', [
     'ngAnimate',
+    'ngAria',
     'ngCookies',
+    'ngMessages',
     'ngResource',
     'ngRoute',
     'ngSanitize',
